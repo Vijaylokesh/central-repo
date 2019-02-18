@@ -1,1 +1,2 @@
-# central-repo
+# pipeline
+Jenkins pipeline test
